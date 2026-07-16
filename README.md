@@ -19,13 +19,13 @@
 <a href="https://babuwebsite.vercel.app"><img height="38" src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
 <a href="https://linkedin.com/in/babuvishwanathanofficial"><img height="38" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
 <a href="mailto:babukanchana03@gmail.com"><img height="38" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
-<a href="https://github.com/babuwebdev"><img height="38" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
+<a href="https://github.com/babutechinfo03-blip"><img height="38" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
 
 <br/>
 
-<img height="30" src="https://komarev.com/ghpvc/?username=babuwebdev&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img height="30" src="https://img.shields.io/github/followers/babuwebdev?style=for-the-badge&color=39FF14&labelColor=0D1117"/>
-<img height="30" src="https://img.shields.io/github/stars/babuwebdev?style=for-the-badge&color=39FF14&labelColor=0D1117"/>
+<img height="30" src="https://komarev.com/ghpvc/?username=babutechinfo03-blip&color=39FF14&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img height="30" src="https://img.shields.io/github/followers/babutechinfo03-blip?style=for-the-badge&color=39FF14&labelColor=0D1117"/>
+<img height="30" src="https://img.shields.io/github/stars/babutechinfo03-blip?style=for-the-badge&color=39FF14&labelColor=0D1117"/>
 
 </div>
 
@@ -234,12 +234,12 @@ Git • GitHub • VS Code • Eclipse IDE
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=babuwebdev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14&card_width=480" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=babuwebdev&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&card_width=480" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=babutechinfo03-blip&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14&card_width=480" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=babutechinfo03-blip&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&card_width=480" width="48%"/>
 
 <br/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=babuwebdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&card_width=480" width="60%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=babutechinfo03-blip&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&card_width=480" width="60%"/>
 
 </div>
 
@@ -248,7 +248,7 @@ Git • GitHub • VS Code • Eclipse IDE
 ## Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=babuwebdev&bg_color=0D1117&color=39FF14&line=39FF14&point=c9d1d9&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=babutechinfo03-blip&bg_color=0D1117&color=39FF14&line=39FF14&point=c9d1d9&area=true&hide_border=true" width="100%"/>
 </div>
 
 <br/>
@@ -277,7 +277,7 @@ Git • GitHub • VS Code • Eclipse IDE
 
 <a href="https://babuwebsite.vercel.app"><img height="38" src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
 <a href="https://linkedin.com/in/babuvishwanathanofficial"><img height="38" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
-<a href="https://github.com/babuwebdev"><img height="38" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
+<a href="https://github.com/babutechinfo03-blip"><img height="38" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
 <a href="mailto:babukanchana03@gmail.com"><img height="38" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
 
 <br/><br/>
