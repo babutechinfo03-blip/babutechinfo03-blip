@@ -54,22 +54,19 @@ OPEN_TO  : Software Developer · Full Stack Roles · AI/ML Opportunities
 
 <img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,c,cpp&theme=dark" height="60"/>
 <br/><b>💻 Languages & Frontend</b>
-<br/>
-Java • JavaScript • Python • HTML5 • CSS3 • React • C • C++
+
 
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=nodejs,spring,express,mysql,mongodb,firebase&theme=dark" height="60"/>
 <br/><b>⚙️ Backend & Database</b>
-<br/>
-Node.js • Spring Boot • Express.js • MySQL • MongoDB • Firebase
+
 
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse,vercel,netlify,railway&theme=dark" height="60"/>
 <br/><b>🛠️ Tools & Development Environment</b>
-<br/>
-Git • GitHub • VS Code • Antigravity IDE • Postman • Eclipse • Vercel • Netlify • Railway
+
 
 </div>
 
