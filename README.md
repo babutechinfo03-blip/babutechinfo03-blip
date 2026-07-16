@@ -52,31 +52,24 @@ OPEN_TO  : Software Developer · Full Stack Roles · AI/ML Opportunities
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,react,git&theme=dark" height="60"/>
-<br/><b>💻 Advanced</b>
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,c,cpp&theme=dark" height="60"/>
+<br/><b>💻 Languages & Frontend</b>
 <br/>
-HTML • CSS • JavaScript • Java • MySQL • APIs • React • Git
+Java • JavaScript • Python • HTML5 • CSS3 • React • C • C++
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=c,php,nodejs,python&theme=dark" height="60"/>
-<br/><b>⚙️ Intermediate</b>
+<img src="https://skillicons.dev/icons?i=nodejs,spring,express,mysql,mongodb,firebase&theme=dark" height="60"/>
+<br/><b>⚙️ Backend & Database</b>
 <br/>
-C • PHP • Node.js • Python
+Node.js • Spring Boot • Express.js • MySQL • MongoDB • Firebase
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=spring,mongodb,cpp&theme=dark" height="60"/>
-<br/><b>🌱 Familiar</b>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse,vercel,netlify,railway&theme=dark" height="60"/>
+<br/><b>🛠️ Tools & Development Environment</b>
 <br/>
-Spring Boot • MongoDB • C++
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" height="60"/>
-<br/><b>🛠️ Tools & Technologies</b>
-<br/>
-Git • GitHub • VS Code • Eclipse IDE
+Git • GitHub • VS Code • Antigravity IDE • Postman • Eclipse • Vercel • Netlify • Railway
 
 </div>
 
