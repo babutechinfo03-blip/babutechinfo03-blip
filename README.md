@@ -246,6 +246,14 @@ Git • GitHub • VS Code • Antigravity IDE • Postman • Eclipse • Verce
 
 <br/>
 
+## Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/babutechinfo03-blip/babutechinfo03-blip/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
 ## Interests
 
 <div align="center">
