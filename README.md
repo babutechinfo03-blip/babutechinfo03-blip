@@ -2,23 +2,23 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:39FF14&height=220&section=header&text=BABU&fontSize=68&fontColor=39FF14&fontAlignY=35&animation=fadeIn&desc=Software%20Developer&descAlignY=58&descSize=22&descColor=39FF14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:39FF14&height=220&section=header&text=BABU%20V&fontSize=68&fontColor=39FF14&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=22&descColor=39FF14" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=39FF14&background=0D1117FF&center=true&vCenter=true&width=760&lines=Who+Am+I+%E2%86%92+Babu;Role+%E2%86%92+Software+Developer;Stack+%E2%86%92+React+%7C+Java+%7C+MySQL+%7C+APIs;Focus+%E2%86%92+Full+Stack+%2F+AI+%2F+ML;Status+%E2%86%92+Open+to+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=39FF14&background=0D1117FF&center=true&vCenter=true&width=760&lines=Who+Am+I+%E2%86%92+Babu+V;Role+%E2%86%92+Software+Engineer+%2F+Full+Stack+Developer;Stack+%E2%86%92+MERN+%7C+Java+%7C+Python+%7C+MySQL;Focus+%E2%86%92+Full+Stack+%2F+AI+Systems;Status+%E2%86%92+Open+to+opportunities" alt="Typing SVG" />
 
 <br/>
 
 <img height="34" src="https://img.shields.io/badge/B.Tech-Information%20Technology-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14"/>
 <img height="34" src="https://img.shields.io/badge/MPNMJ%20Engineering%20College-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14"/>
-<img height="34" src="https://img.shields.io/badge/Location-Erode%2C%20Tamil%20Nadu-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14"/>
+<img height="34" src="https://img.shields.io/badge/Location-Vellore%2C%20Tamil%20Nadu-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14"/>
 
 <br/>
 
-<a href="https://babuwebsite.vercel.app"><img height="38" src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
-<a href="https://linkedin.com/in/babuvishwanathanofficial"><img height="38" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
-<a href="mailto:babukanchana03@gmail.com"><img height="38" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
+<a href="https://babutechiee.vercel.app/"><img height="38" src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
+<a href="https://www.linkedin.com/in/babuvishwanathanofficial/"><img height="38" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
+<a href="mailto:babutechinfo03@gmail.com"><img height="38" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
 <a href="https://github.com/babutechinfo03-blip"><img height="38" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
 
 <br/>
@@ -34,16 +34,16 @@
 ## About
 
 <blockquote>
-<h4>I'm a B.Tech Information Technology student and Software Developer, focused on building responsive, API-driven applications with a growing interest in AI and Machine Learning.</h4>
-<h4>I enjoy building recommendation systems and full-stack platforms that turn user data into useful, personalized experiences.</h4>
+<h4>I'm a B.Tech Information Technology student and aspiring Software Engineer skilled in full-stack web development, Java, the MERN stack, and AI systems.</h4>
+<h4>I have a strong foundation in Data Structures & Algorithms, OOP, RESTful APIs, and software engineering principles, with a focus on scalable, reliable software, code quality, testing, and performance optimization.</h4>
 </blockquote>
 
 ```bash
-ROLE     : Software Developer
-EXP      : 2 internships (Frontend/Web + Java/Backend) | B.Tech IT '23-'27
-DOMAIN   : Web Development · Recommendation Systems · AI/ML
-STACK    : HTML, CSS, JavaScript, Java, MySQL, React, APIs
-OPEN_TO  : Software Developer · Full Stack Roles · AI/ML Opportunities
+ROLE     : Software Engineer | Full Stack Developer
+EXP      : 3 internships (Full Stack + Java/Backend + Frontend) | B.Tech IT '23-'27
+DOMAIN   : Web Development · AI-Integrated Applications · AgriTech · Car Discovery
+STACK    : Java, JavaScript, Python, React, Node.js, Express, MySQL, MongoDB, PostgreSQL
+OPEN_TO  : Software Engineer · Full Stack Developer · AI/ML Opportunities
 ```
 
 <br/>
@@ -52,21 +52,28 @@ OPEN_TO  : Software Developer · Full Stack Roles · AI/ML Opportunities
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,c,cpp&theme=dark" height="60"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,html,css,react&theme=dark" height="60"/>
 <br/><b>💻 Languages & Frontend</b>
 
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb,postgres,firebase&theme=dark" height="60"/>
+<br/><b>⚙️ Backend & Databases</b>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,spring,express,mysql,mongodb,firebase&theme=dark" height="60"/>
-<br/><b>⚙️ Backend & Database</b>
-
+<img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel,vscode&theme=dark" height="60"/>
+<br/><b>🛠️ Tools, Cloud & CI/CD</b>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,eclipse,vercel,netlify,railway&theme=dark" height="60"/>
-<br/><b>🛠️ Tools & Development Environment</b>
+<img height="26" src="https://img.shields.io/badge/AI%20API%20Integration-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/> <img height="26" src="https://img.shields.io/badge/LLMs-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/> <img height="26" src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=39FF14&labelColor=0D1117&color=39FF14"/> <img height="26" src="https://img.shields.io/badge/Microservices-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/>
+<br/><b>🤖 AI & ML</b>
 
+<br/><br/>
+
+<img height="26" src="https://img.shields.io/badge/DSA-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/> <img height="26" src="https://img.shields.io/badge/OOP-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/> <img height="26" src="https://img.shields.io/badge/DBMS-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/> <img height="26" src="https://img.shields.io/badge/System%20Design%20Fundamentals-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/> <img height="26" src="https://img.shields.io/badge/SDLC-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/> <img height="26" src="https://img.shields.io/badge/Complexity%20Analysis-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/>
+<br/><b>📐 Core Computer Science</b>
 
 </div>
 
@@ -77,18 +84,17 @@ OPEN_TO  : Software Developer · Full Stack Roles · AI/ML Opportunities
 <table>
 <tr><td>
 
-### 🎨 CodeAlpha
-<img height="24" src="https://img.shields.io/badge/Web%20Developer%20Intern-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/>
+### 🌐 Strydo Technologies Pvt. Ltd.
+<img height="24" src="https://img.shields.io/badge/Full%20Stack%20Web%20Development%20Intern-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/>
 
-<img height="24" src="https://img.shields.io/badge/📅%20Nov%202025%20--%20Dec%202025-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/📍%20Chennai%2C%20Tamil%20Nadu-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
+<img height="24" src="https://img.shields.io/badge/📅%20Jun%202026%20--%20Jul%202026-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/📍%20India-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
 
-- **Built** responsive UI components using HTML, CSS, JavaScript, and React to improve user experience.
-- **Collaborated** with backend teams to integrate APIs and optimize application performance.
-- **Enhanced** page load speed and usability through efficient code structuring and UI improvements.
+- **Delivered** responsive web application features across 3 layers: frontend, backend, and database.
+- **Created** reusable UI components, application logic, and database operations.
 
 <hr style="border:none;border-top:1px solid #39FF14;opacity:0.25;margin:12px 0;">
 
-<img height="24" src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/API%20Integration-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
+<img height="24" src="https://img.shields.io/badge/Full%20Stack-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Reusable%20Components-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Databases-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
 
 </td></tr>
 </table>
@@ -103,13 +109,32 @@ OPEN_TO  : Software Developer · Full Stack Roles · AI/ML Opportunities
 
 <img height="24" src="https://img.shields.io/badge/📅%20Jan%202026%20--%20Apr%202026-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/📍%20Hybrid%2C%20India-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
 
-- **Developed** Java applications using OOP concepts and backend development fundamentals.
-- **Worked with** Data Structures, Algorithms, APIs, and database integration to improve application performance.
-- **Collaborated** on real-world projects, debugging issues and optimizing code quality.
+- **Developed** Java applications during a 4-month internship using OOP, data structures, and algorithms.
+- **Integrated** REST APIs and databases to support application features.
 
 <hr style="border:none;border-top:1px solid #39FF14;opacity:0.25;margin:12px 0;">
 
-<img height="24" src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/OOP-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/DSA-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/APIs-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Backend-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
+<img height="24" src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/OOP-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/DSA-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/Backend-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
+
+</td></tr>
+</table>
+
+<br/>
+
+<table>
+<tr><td>
+
+### 🎨 CodeAlpha
+<img height="24" src="https://img.shields.io/badge/Frontend%20Development%20Intern-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/>
+
+<img height="24" src="https://img.shields.io/badge/📅%20Nov%202025%20--%20Dec%202025-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/📍%20Chennai%2C%20Tamil%20Nadu-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
+
+- **Built** responsive React.js components using 3 core web technologies: HTML, CSS, and JavaScript.
+- **Integrated** frontend components with backend APIs to display and manage data.
+
+<hr style="border:none;border-top:1px solid #39FF14;opacity:0.25;margin:12px 0;">
+
+<img height="24" src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/HTML%2FCSS-0D1117?style=flat-square&logo=html5&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="24" src="https://img.shields.io/badge/API%20Integration-0D1117?style=flat-square&labelColor=0D1117&color=0D1117"/>
 
 </td></tr>
 </table>
@@ -121,41 +146,60 @@ OPEN_TO  : Software Developer · Full Stack Roles · AI/ML Opportunities
 <table>
 <tr>
 
-<td width="640" valign="top">
+<td width="33%" valign="top">
 
-<img src="https://placehold.co/620x260/0D1117/39FF14?text=PROJECT+PREVIEW&font=jetbrains-mono" width="100%"/>
+<img src="https://placehold.co/400x200/0D1117/39FF14?text=HARVION+AI&font=jetbrains-mono" width="100%"/>
 
-## 🚗 AI Based Car Recommendation System
+## 🌾 Harvion AI
 
-<img height="26" src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="26" src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="26" src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="26" src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+**Smart Agricultural System**
 
-**Duration:** Jan – Mar 2025
-**Impact:** Personalized vehicle recommendations with improved decision-making
+<img height="26" src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="26" src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="26" src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="26" src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="26" src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
 
-- Built a car recommendation system to suggest personalized vehicle options based on user requirements and preferences.
-- Applied data filtering, rule-based logic, and machine learning techniques to analyze user inputs and generate accurate recommendations.
-- Improved user decision-making by reducing search effort and increasing recommendation relevance through intelligent matching.
+**Scale:** 39 pages · 74 APIs · 20 data models
 
-🔗 **[Live Demo](#)**
+- Built a full-stack app with React.js, Node.js, Express.js, MongoDB, and FastAPI.
+- Implemented crop intelligence for 29 crop profiles: price forecasting, weather insights, bidding, and order tracking.
+
+🔗 **[Repository](https://github.com/babutechinfo03-blip/Harvion-AI)** &nbsp;·&nbsp; **[Live Demo](https://agri-pulse-pied.vercel.app/)**
 
 </td>
 
-<td width="640" valign="top">
+<td width="33%" valign="top">
 
-<img src="https://placehold.co/620x260/0D1117/39FF14?text=PROJECT+PREVIEW&font=jetbrains-mono" width="100%"/>
+<img src="https://placehold.co/400x200/0D1117/39FF14?text=TENSHIRO&font=jetbrains-mono" width="100%"/>
 
-## 🎬 Movie Recommendation System
+## 🚀 Tenshiro
 
-<img height="26" src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="26" src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="26" src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="26" src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+**AI Career Navigation Platform**
 
-**Duration:** Feb – Apr 2025
-**Impact:** Personalized movie suggestions with simplified discovery
+<img height="26" src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="26" src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="26" src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="26" src="https://img.shields.io/badge/OpenAI%20API-0D1117?style=flat-square&logo=openai&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
 
-- Built a movie recommendation system that suggests movies based on user preferences and viewing patterns.
-- Implemented filtering logic and a recommendation algorithm to deliver personalized movie suggestions.
-- Designed a responsive user interface that improved user engagement and simplified movie discovery.
+**Scale:** 27 pages · 70 backend routes
 
-🔗 **[Live Demo](#)**
+- Built an AI career platform with React.js, Node.js, MySQL, and the OpenAI API.
+- Delivered AI recommendations, roadmaps, interview prep, and resume analysis for 18 domains and 153 roles.
+
+🔗 **[Repository](https://github.com/babutechinfo03-blip/Tenshiro)**
+
+</td>
+
+<td width="33%" valign="top">
+
+<img src="https://placehold.co/400x200/0D1117/39FF14?text=AUTOMIND&font=jetbrains-mono" width="100%"/>
+
+## 🚗 AutoMind
+
+**AI Car Finder**
+
+<img height="26" src="https://img.shields.io/badge/React.js-0D1117?style=flat-square&logo=react&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="26" src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="26" src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=39FF14&labelColor=0D1117&color=0D1117"/> <img height="26" src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=39FF14&labelColor=0D1117&color=0D1117"/>
+
+**Scale:** 55 cars · 6 categories · 10 pages
+
+- Built a car discovery app with React.js, TypeScript, Tailwind CSS, and Supabase.
+- Delivered search, filtering, recommendations, vehicle comparison, and favorites management.
+
+🔗 **[Repository](https://github.com/Babuvishwanathan17/automind-car-finder)**
 
 </td>
 
@@ -168,28 +212,41 @@ OPEN_TO  : Software Developer · Full Stack Roles · AI/ML Opportunities
 
 <div align="center">
 
-**📜 Certifications**
+**🏅 Hackathons & Competitions**
 
 <table>
 <tr>
-<td width="70%">GenAI Professional</td>
-<td align="center" width="30%"><img height="24" src="https://img.shields.io/badge/Oracle-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/></td>
+<td width="70%">Finalist — Protothon Hackathon, Chennai</td>
+<td align="center" width="30%"><img height="24" src="https://img.shields.io/badge/Finalist-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/></td>
 </tr>
 <tr>
-<td>Cyber Security</td>
-<td align="center"><img height="24" src="https://img.shields.io/badge/Naan%20Mudhalvan-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/></td>
+<td>Winner — Intra-College Hackathon</td>
+<td align="center"><img height="24" src="https://img.shields.io/badge/Winner-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/></td>
 </tr>
 <tr>
-<td>Python</td>
-<td align="center"><img height="24" src="https://img.shields.io/badge/Novitech-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/></td>
+<td>Runner-Up — TECHNOVANZA-2K26 Hackathon</td>
+<td align="center"><img height="24" src="https://img.shields.io/badge/Runner--Up-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/></td>
 </tr>
 </table>
 
 <br/>
 
-**📚 Undergraduate Coursework**
+**📜 Certifications**
 
-<img height="26" src="https://img.shields.io/badge/Web%20Essentials-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/> <img height="26" src="https://img.shields.io/badge/Object%20Oriented%20Programming-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/> <img height="26" src="https://img.shields.io/badge/Full%20Stack%20Web%20Development-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/> <img height="26" src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/> <img height="26" src="https://img.shields.io/badge/Cloud%20Computing-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/>
+<table>
+<tr>
+<td width="70%"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=B4B2F9FCF1C1EFFDAD367CE83C5CEA6CC35CC7620AD01200AFBDE4FC339AC401">GenAI Professional — Oracle</a></td>
+<td align="center" width="30%"><img height="24" src="https://img.shields.io/badge/Oracle-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/></td>
+</tr>
+<tr>
+<td><a href="https://drive.google.com/file/d/1LGZqi4d1tAxLS9K31jIKtRExZ_NVhQLx/view?usp=drive_link">Cyber Security — Naan Mudhalvan</a></td>
+<td align="center"><img height="24" src="https://img.shields.io/badge/Naan%20Mudhalvan-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/></td>
+</tr>
+<tr>
+<td><a href="https://docs.google.com/document/d/14NH9PoaY6Fu0494epV03PZLWWYKQ3WF3/edit?usp=drive_link&ouid=101537972255391387869">Python — Novitech</a></td>
+<td align="center"><img height="24" src="https://img.shields.io/badge/Novitech-0D1117?style=flat-square&labelColor=0D1117&color=39FF14"/></td>
+</tr>
+</table>
 
 </div>
 
@@ -203,9 +260,8 @@ OPEN_TO  : Software Developer · Full Stack Roles · AI/ML Opportunities
 
 <br/><br/>
 
-<img height="30" src="https://img.shields.io/badge/Cum.%20GPA-7.26%20%2F%2010-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14"/>
-<img height="30" src="https://img.shields.io/badge/Major%20GPA-7.3%20%2F%2010-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14"/>
-<img height="30" src="https://img.shields.io/badge/2023%20--%202027-Erode%2C%20Tamil%20Nadu-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14"/>
+<img height="30" src="https://img.shields.io/badge/CGPA-7.8%20%2F%2010-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14"/>
+<img height="30" src="https://img.shields.io/badge/2023%20--%202027%20(Expected)-Erode%2C%20Tamil%20Nadu-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14"/>
 
 <br/><br/>
 
@@ -213,8 +269,9 @@ OPEN_TO  : Software Developer · Full Stack Roles · AI/ML Opportunities
 
 <br/><br/>
 
-<img height="30" src="https://img.shields.io/badge/Grade-74%25-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14"/>
-<img height="30" src="https://img.shields.io/badge/2023-Vellore%2C%20Tamil%20Nadu-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14"/>
+<img height="30" src="https://img.shields.io/badge/HSC%20(2023)-74%25-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14"/>
+<img height="30" src="https://img.shields.io/badge/SSLC%20(2021)-100%25-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14"/>
+<img height="30" src="https://img.shields.io/badge/Vellore%2C%20Tamil%20Nadu-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14"/>
 
 </div>
 
@@ -273,10 +330,10 @@ OPEN_TO  : Software Developer · Full Stack Roles · AI/ML Opportunities
 
 <div align="center">
 
-<a href="https://babuwebsite.vercel.app"><img height="38" src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
-<a href="https://linkedin.com/in/babuvishwanathanofficial"><img height="38" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
+<a href="https://babutechiee.vercel.app/"><img height="38" src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
+<a href="https://www.linkedin.com/in/babuvishwanathanofficial/"><img height="38" src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
 <a href="https://github.com/babutechinfo03-blip"><img height="38" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
-<a href="mailto:babukanchana03@gmail.com"><img height="38" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
+<a href="mailto:babutechinfo03@gmail.com"><img height="38" src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117&color=0D1117"/></a>
 
 <br/><br/>
 
