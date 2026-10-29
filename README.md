@@ -227,7 +227,7 @@ OPEN TO   : Software Engineer (SDE) · Full Stack Developer · AI/ML Engineering
 <td width="33.3%" valign="top">
 
 <a href="https://carvendhan.netlify.app/" target="_blank">
-  <img src="assets/automind-preview.png" alt="AutoMind – AI Car Finder" width="100%"/>
+  <img src="assets/automind.png" alt="AutoMind – AI Car Finder" width="100%"/>
 </a>
 
 <br/><br/>
